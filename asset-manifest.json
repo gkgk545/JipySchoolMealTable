@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/JipySchoolMealTable/static/js/main.703d5c71.js",
+    "main.css": "/JipySchoolMealTable/static/css/main.90f6920e.css",
+    "main.js": "/JipySchoolMealTable/static/js/main.2de39293.js",
     "index.html": "/JipySchoolMealTable/index.html",
-    "main.703d5c71.js.map": "/JipySchoolMealTable/static/js/main.703d5c71.js.map"
+    "main.90f6920e.css.map": "/JipySchoolMealTable/static/css/main.90f6920e.css.map",
+    "main.2de39293.js.map": "/JipySchoolMealTable/static/js/main.2de39293.js.map"
   },
   "entrypoints": [
-    "static/js/main.703d5c71.js"
+    "static/css/main.90f6920e.css",
+    "static/js/main.2de39293.js"
   ]
 }
